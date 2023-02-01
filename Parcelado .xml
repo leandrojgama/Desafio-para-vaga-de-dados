@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EnvoHstCrd>
+    <Cnpjlf>/0001</Cnpjlf><!--Cnpj da Fonte-->
+    <DtRms>09.02.2019</DtRms><!--DataRemessa-->
+    <Cli>
+        <IdfcCli>1</IdfcCli><!--Identificacao-->
+        <Opr>
+                <NrUnco>1</NrUnco><!--NumeroUnico-->
+                <DtCtrc>10.01.2019</DtCtrc><!--DataContratacao-->
+                <DtAprc>14.02.2019</DtAprc><!--DataApuracao-->
+                <CdMdld>1</CdMdld><!--Modalidade-->
+            
+            <DetOpr>
+                
+                <InPreFix>pré-fixado</InPreFix><!--IndicadorPreFixado-->
+                
+                <DtVnctUltPcl>10.02.2021</DtVnctUltPcl><!--DataVencimentoUltimaParcela-->
+                <VlCtrdFut>R$ 30.000,00</VlCtrdFut><!--ValorContratadoFuturo-->
+                <QtPcl>25</QtPcl><!--QuantidadeParcelas-->
+            </DetOpr>
+            <PclAnt>
+                <DtVnctPclAnt>09.02.2019</DtVnctPclAnt><!--DataPagamento-->
+                <VlPclAnt>R$ 1.200,00</VlPclAnt><!--ValorPagamento-->
+            </PclAnt>
+            <PclFut>
+                <DtVnctPrxPcl>10.03.2019</DtVnctPrxPcl> <!--DataVencimentoProximaParcela-->
+                <VlPrxPcl>R$ 1.200,00</VlPrxPcl><!--ValorProximaParcela-->
+                <QtPclVncr>24</QtPclVncr><!--QuantidadeParcelasAVencer-->
+                <QtPclPgr>24</QtPclPgr><!--QuantidadeParcelasAPagar-->
+            </PclFut>
+        </Opr>
+    </Cli>
+</EnvoHstCrd>
