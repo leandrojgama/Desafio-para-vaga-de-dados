@@ -1,4 +1,4 @@
-# Desafio-para-vaga-de-dados
+# Desafio para vaga na area de dados
 ## Este desafio me foi passado por uma determinada empresa.
 
 ### Ele é composto por 3 questões: 
